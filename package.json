@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "license": "MIT",
-  "description": "DSH plugin: shows and reclaims stale DSH and dsh-ops temporary files under the message composer. Built for the dsh-ops 0.5.0 %TEMP% staging leak.",
+  "description": "在输入框下方显示并回收 DSH / dsh-ops 临时文件占用；为 dsh-ops 0.5.0 的 %TEMP% 泄漏而做。DSH plugin: reports and reclaims stale DSH/dsh-ops temp files under the message composer.",
   "keywords": [
     "dsh",
     "dsh-plugin",
@@ -34,7 +34,7 @@
     "locale/*.json",
     "icon.svg",
     "README.md",
-    "README.zh.md",
+    "README.en.md",
     "LICENSE"
   ],
   "dsh": {
