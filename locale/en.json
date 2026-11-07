@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Space clean",
+    "description": "Shows how much space stale DSH and dsh-ops temporary files take below the composer, and reclaims them after a confirmation."
+  }
+}

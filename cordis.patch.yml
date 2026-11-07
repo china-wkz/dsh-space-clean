@@ -1,0 +1,5 @@
+# One row for the whole bundle: the Host half serves /api/dsh-space-clean/*,
+# the browser half renders its chip under the composer.
+- insert:
+    - id: space-clean
+      name: '@local/dsh-space-clean'
